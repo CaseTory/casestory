@@ -3,9 +3,9 @@ Toko casing elegan &amp; custom
 <section>
   <h2>Galeri Produk</h2>
   <div class="gallery">
-    <img src="gambar1.jpg" alt="Casing Polos Elegan">
-    <img src="gambar2.jpg" alt="Casing Custom Anime">
-    <img src="gambar3.jpg" alt="Casing Glow in The Dark">
+    <img src="GAMBAR1.JPG" alt="Casing Polos Elegan">
+    <img src="GAMBAR2.JPG" alt="Casing Custom Anime">
+    <img src="GAMBAR3.JPG alt="Casing Glow in The Dark">
   </div>
 </section>
 
