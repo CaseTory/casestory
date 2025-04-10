@@ -5,7 +5,7 @@ Toko casing elegan &amp; custom
   <div class="gallery">
     <img src="GAMBAR1.JPG" alt="Casing Polos Elegan">
     <img src="GAMBAR2.JPG" alt="Casing Custom Anime">
-    <img src="GAMBAR3.JPG alt="Casing Glow in The Dark">
+    <img src="GAMBAR3.JPG" alt="Casing Glow in The Dark">
   </div>
 </section>
 
